@@ -14,15 +14,23 @@ Vue.use(Router)
 export default new Router({
   routes: [
     {
+      path: '*',
+      name: 'home',
+      component: Home,
+      beforeEnter: AuthGuard
+    },
+    {
       path: '',
       name: 'home',
-      component: Home
+      component: Home,
+      beforeEnter: AuthGuard
     },
     {
       path: '/ad/:id',
       props: true,
       name: 'ad',
-      component: Ad
+      component: Ad,
+      beforeEnter: AuthGuard
     },
     {
       path: '/list',
