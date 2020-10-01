@@ -49,7 +49,7 @@ $ npm run serve
 
 ## Изображения
 ### Счет
-![Счет](https://github.com/alexandr-blinkov/vue-crm/raw/master/public/img/github/1.png)
+![Счет](https://github.com/alexandr-blinkov/vue-adsStore/raw/master/public/img/github/1.png)
 
 
 
