@@ -48,8 +48,14 @@ $ npm run serve
 ```
 
 ## Изображения
-### Счет
+### Авторизация
 ![Счет](https://github.com/alexandr-blinkov/vue-adsStore/raw/master/public/img/github/1.png)
-
-
+### Главная (доска объявлений)
+![Счет](https://github.com/alexandr-blinkov/vue-adsStore/raw/master/public/img/github/2.png)
+### Заказы
+![Счет](https://github.com/alexandr-blinkov/vue-adsStore/raw/master/public/img/github/3.png)
+### Создание новой записи
+![Счет](https://github.com/alexandr-blinkov/vue-adsStore/raw/master/public/img/github/4.png)
+### Мои записи
+![Счет](https://github.com/alexandr-blinkov/vue-adsStore/raw/master/public/img/github/5.png)
 
